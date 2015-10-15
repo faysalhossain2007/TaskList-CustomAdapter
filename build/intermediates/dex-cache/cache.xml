@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\F\installed\Android SDK\SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\Java Android Studio\ToDoList\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-636eae04027714fbacdebc11e49deab0aa2f5ec0.jar" />
+    </item>
+    <item
+        jar="E:\Java Android Studio\ToDoList\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Java Android Studio\ToDoList\app\build\intermediates\pre-dexed\debug\classes-f71017a571e1c8a8e771e24204230ed26c097bab.jar" />
+    </item>
+    <item
+        jar="E:\Java Android Studio\ToDoList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\Java Android Studio\ToDoList\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-ea5340b793a46c8921f3882939a24332b1faa878.jar" />
+    </item>
+    <item
+        jar="E:\Java Android Studio\ToDoList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\Java Android Studio\ToDoList\app\build\intermediates\pre-dexed\debug\classes-a0a882d5e68b2c39f0d3252ba7bf4c1c6df78ed9.jar" />
+    </item>
+
+</items>
